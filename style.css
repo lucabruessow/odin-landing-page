@@ -61,10 +61,10 @@ h1 {
     font-weight: 900;
 }
 
-.hero-text p {
+p {
     margin: 0px;
     font-size: 18px;
-    color: #e5e7eb;
+    color: #b3b5ba;
 }
 
 button {
@@ -137,4 +137,34 @@ cite {
     text-align: end;
     font-size: 24px;
     font-weight: 800;
+}
+
+.cta-section {
+    padding: 50px 100px;
+}
+
+.cta-section-container {
+    display: flex;
+    background-color: #3882F6;
+    padding: 25px 50px;
+    border-radius: 4px;
+}
+
+.cta-text {
+    flex-grow: 1;
+}
+
+h3 {
+    color: #F9FAF8;
+    font-size: 24px;
+    margin: 0px;
+}
+
+.cta-button {
+    display: flex;
+    align-items: center;
+    max-height: fit-content;
+    border: 1px solid;
+    text-align: center;
+    margin: auto;
 }

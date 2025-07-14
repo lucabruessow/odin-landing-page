@@ -61,10 +61,10 @@ h1 {
     font-weight: 900;
 }
 
-.hero-text p {
+p {
     margin: 0px;
     font-size: 18px;
-    color: #e5e7eb;
+    color: #98999c;
 }
 
 button {
@@ -137,4 +137,10 @@ cite {
     text-align: end;
     font-size: 24px;
     font-weight: 800;
+}
+
+footer {
+    background-color: #1F2937;
+    padding: 25px 100px;
+    text-align: center;
 }

@@ -168,3 +168,9 @@ h3 {
     text-align: center;
     margin: auto;
 }
+
+footer {
+    background-color: #1F2937;
+    padding: 25px 100px;
+    text-align: center;
+}
